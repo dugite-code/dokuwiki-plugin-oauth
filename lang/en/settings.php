@@ -30,6 +30,9 @@ $lang['yahoo-secret']    = 'The Consumer Secret of your registered <a href="http
 $lang['gitlab-key']    = "The Application ID provided by your GitLab installation";
 $lang['gitlab-secret'] = "The Secret provided by your GitLab installation";
 $lang['gitlab-url']    = 'The URL to your Gitlab installation';
+$lang['nextcloud-key']       = 'The Client Identifier of your registered <a href="https://docs.nextcloud.com/server/14/admin_manual/configuration_server/oauth2.html#add-an-oauth2-application">Nextcloud application</a>';
+$lang['nextcloud-secret']    = 'The Client Secret of your registered <a href="https://docs.nextcloud.com/server/14/admin_manual/configuration_server/oauth2.html#add-an-oauth2-application">Nextcloud application</a>';
+$lang['nextcloud-url']       = 'The base URL of your Nextcloud instance';
 $lang['doorkeeper-key']      = '(Example) The Application ID of your registered Doorkeeper Application.';
 $lang['doorkeeper-secret']   = '(Example) The Secret of your registered Doorkeeper Application.';
 $lang['doorkeeper-authurl']  = '(Example) The authorization endpoint URL of your Doorkeeper setup.';
